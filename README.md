@@ -1,4 +1,18 @@
-🏡 Airbnb European Market Analysis & BI DashboardAn end-to-end data analysis and business intelligence project delivering deep market insights into European Airbnb listings across major cities. This project demonstrates robust data engineering, relational modeling, advanced DAX calculations, and interactive data visualization.🚀 Project OverviewThis dashboard provides a comprehensive market analysis of Airbnb properties, helping stakeholders understand pricing strategies, host performance, guest preferences, and property distribution across multiple European cities.🛠️ Tech Stack & ArchitectureDatabase & Modeling: SQL Server, Star Schema (Fact and Dimension Tables)   Data Transformation & Pipeline: Python (Pandas, Selenium), Medallion Architecture (Bronze, Silver, Gold Layers)Visualization & BI: Microsoft Power BIKey Metrics (DAX): Total Listings, Avg Price, Avg Rating, Total Reviews, Superhost %, Guest Favorite %📊 Key Features & Dashboard PagesMarket Overview & KPIs: High-level executive summary tracking total listings, average pricing, rating benchmarks, and superhost distribution.Detailed Deep-Dive & Pricing Analysis: Granular insights into top-cost listings, median reviews per city, property types breakdown, and price-to-rating correlations.Interactive Slicers & Filters: Dynamic filtering capabilities by city and host status (Superhost / Non-Superhost).📸 Dashboard Preview
+🏡 Airbnb European Market Analysis & BI Dashboard
+An end-to-end data analysis and business intelligence project delivering deep market insights into European Airbnb listings across major cities. This project demonstrates robust data engineering, relational modeling, advanced DAX calculations, and interactive data visualization.
+
+🚀 Project Overview
+This dashboard provides a comprehensive market analysis of Airbnb properties, helping stakeholders understand pricing strategies, host performance, guest preferences, and property distribution across multiple European cities.
+
+🛠️ Tech Stack & ArchitectureDatabase & Modeling:
+SQL Server, Star Schema (Fact and Dimension Tables)   Data Transformation & Pipeline: Python (Pandas, Selenium), Medallion Architecture (Bronze, Silver, Gold Layers)Visualization & BI: Microsoft Power BIKey Metrics (DAX): Total Listings, Avg Price, Avg Rating, Total Reviews, Superhost %, Guest Favorite %
+
+📊 Key Features & Dashboard Pages
+    Market Overview & KPIs: High-level executive summary tracking total listings, average pricing, rating benchmarks, and superhost distribution.
+
+    Detailed Deep-Dive & Pricing Analysis: Granular insights into top-cost listings, median reviews per city, property types breakdown, and price-to-rating correlations.
+
+    Interactive Slicers & Filters: Dynamic filtering capabilities by city and host status (Superhost / Non-Superhost).
 
 👨‍💻 Author
 
